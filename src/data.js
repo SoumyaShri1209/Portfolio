@@ -15,7 +15,7 @@ export const personalInfo = {
   github: "https://github.com/SoumyaShri1209",
   // 👇 Add your photo path here: place your photo in /src/assets/photo.jpg
   photo: "photo4.jpg", 
-  resumeLink: "https://drive.google.com/file/d/1W8a2MD9MxXgHww2MorZVZ1GER1KzuRN5/view", // 👈 Add your resume download link here
+  resumeLink: "https://drive.google.com/file/d/1iM8XUH1Ca8rjeQHXLaAHRgmmrNTbcSnR/view?usp=sharing", // 👈 Add your resume download link here
 };
 
 export const projects = [
