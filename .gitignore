@@ -1,0 +1,83 @@
+# Dependencies
+node_modules/
+.pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+.env.*.local
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+.history/
+*.code-workspace
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Vite specific
+.vite/
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Cache directories
+.cache/
+.parcel-cache/
+.temp/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage
+
+
+*.tsbuildinfo
+
+# Optional: Keep lock files (recommended for team projects)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
